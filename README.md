@@ -1,6 +1,6 @@
 # 🤖 AI-Native Development Template
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/license-BSD--3--Clause-blue.svg)](LICENSE)
 [![AI-Powered](https://img.shields.io/badge/AI-Powered_by_Claude-7B61FF.svg)](https://anthropic.com)
 
 > **A standardized, agentic workflow for modern software engineering.**
