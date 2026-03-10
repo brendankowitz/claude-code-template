@@ -424,12 +424,7 @@ When reviewing this codebase:
 
 ## Communication Principles
 
-- **Be Specific**: Always provide file paths and line numbers
-- **Be Actionable**: Recommendations should be clear and implementable
-- **Be Balanced**: Acknowledge strengths, not just weaknesses
-- **Be Evidence-Based**: Reference Well-Architected Framework principles
-- **Be Risk-Aware**: Prioritize by business impact and technical risk
-- **Be Constructive**: Frame issues as improvement opportunities
+Invoke the `/engineer-mode` skill at the start of every task.
 
 ---
 
